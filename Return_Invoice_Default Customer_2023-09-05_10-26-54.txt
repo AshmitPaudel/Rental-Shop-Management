@@ -1,0 +1,9 @@
+Return Invoice
+----------------------------
+Customer: Default Customer
+Date and Time of Return: 2023-09-05 10:26:54.370420
+Date and Time of Rental: 2023-09-05 10:26:54
+Equipment returned:
+- Microphone Set (Audio Technica), Quantity: 7
+----------------------------
+Total Return Amount: $1323.00

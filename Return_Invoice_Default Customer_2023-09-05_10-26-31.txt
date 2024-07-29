@@ -1,0 +1,9 @@
+Return Invoice
+----------------------------
+Customer: Default Customer
+Date and Time of Return: 2023-09-05 10:26:31.417655
+Date and Time of Rental: 2023-09-05 10:26:31
+Equipment returned:
+- Velvet Table Cloth (Saathi), Quantity: 7
+----------------------------
+Total Return Amount: $56.00
