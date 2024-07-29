@@ -1,9 +1,0 @@
-Invoice
-----------------------------
-Customer: Default Customer
-Date and Time of Rental: 2023-09-05 10:26:03.538504
-Equipment rented:
-- Velvet Table Cloth (Saathi), Quantity: 7
-- Microphone Set (Audio Technica), Quantity: 7
-----------------------------
-Total Amount: $12411.00
